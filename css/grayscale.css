@@ -117,6 +117,9 @@ a:focus {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
 }
+.intro .container {
+  background: rgba(125, 125, 109, 0.6)
+}
 .intro {
   display: table;
   width: 100%;
